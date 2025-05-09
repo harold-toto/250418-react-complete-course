@@ -1,5 +1,4 @@
-import HeaderComponent from "../../components/main-components/header-component/header-component";
-import "./home.css"; // Import the CSS file for styling
+import HeaderComponent from "../../components/main-components/menu-component/menu-component";
 
 function HomePage() {
   return (
